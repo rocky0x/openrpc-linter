@@ -1,0 +1,5 @@
+[review]
+comment_warnings = true
+status_check = true
+auto_merge = true
+investigate = true
